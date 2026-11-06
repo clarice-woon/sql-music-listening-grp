@@ -1,4 +1,4 @@
-# music-listening-bc2402-grp-project
+# music-listening-bc2402-grp
 	A separate project from music-listening-bc2402, the work here is split amongst the group.
 	35 questions split amongst five.
 
